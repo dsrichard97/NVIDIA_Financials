@@ -1,6 +1,6 @@
-<p>
+## NVIDIA's Rise in A.I.
 ![alt text](cl.png "Title")
-</p>
+
 
 ## Preliminary - EDA
 ![alt text](graph2.png "Title")
