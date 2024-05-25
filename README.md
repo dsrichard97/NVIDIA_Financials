@@ -2,7 +2,7 @@
 Quick glance about the NVIDIAs previous financial statements and news in the last 2-3 years.
 
 ## Python Extract - Data Cleaning
-attach excel report here
+![alt text](graph2.png "Title")
 
 ## Current News
 ![alt text](news.png "Title")
