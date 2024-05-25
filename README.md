@@ -4,8 +4,8 @@ Quick glance about the NVIDIAs previous financial statements and news in the las
 ## Python Extract - Data Cleaning
 attach excel report here
 
-## Excel Report
-attach excel report here
+## Current News
+![alt text](news.png "Title")
 
 ## NVIDIA Stock and Financial Highlights (2024)
 First Q1 report will be on May 22, 2024
