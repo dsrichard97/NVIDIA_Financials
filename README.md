@@ -29,6 +29,6 @@ NVIDIA's positioning in the AI boom and its semiconductor industry leadership su
 
 For more detailed insights, check NVIDIA's [investor relations website](https://investor.nvidia.com/home/default.aspx) or financial news platforms like [Yahoo Finance](https://finance.yahoo.com/).
 
-For more some quick python reporting, check my report ->  [click here for report](https://investor.nvidia.com/home/default.aspx) 
+For more some quick python reporting, check my report ->  [click here for report](https://github.com/dsrichard97/NVIDIA_Financials/blob/main/NVIDA%20EDA%20(Exploratory%20Data%20Analysis).ipynb) 
 
 ---
