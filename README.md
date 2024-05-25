@@ -6,6 +6,7 @@ attach excel report here
 
 ## Current News
 ![alt text](news.png "Title")
+![alt text](news2.png "Title")
 
 ## NVIDIA Stock and Financial Highlights (2024)
 First Q1 report will be on May 22, 2024
